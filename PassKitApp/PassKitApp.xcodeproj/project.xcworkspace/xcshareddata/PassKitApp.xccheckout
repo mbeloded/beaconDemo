@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0BC91B16-5053-432F-94B6-57B0121DA136</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PassKitApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>266ED3CE9EB2A79E576C208EA974B8F98D906A8D</key>
+		<string>https://bitbucket.org/tatemgames/passkitapp.git</string>
+		<key>D90CBB38CA9DE4B944AA120B2162FDE6BEFA45EF</key>
+		<string>https://github.com/lilliefelth/iBeacon.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/PassKitApp/PassKitApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>266ED3CE9EB2A79E576C208EA974B8F98D906A8D</key>
+		<string>../../../../../Pass</string>
+		<key>D90CBB38CA9DE4B944AA120B2162FDE6BEFA45EF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lilliefelth/iBeacon.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D90CBB38CA9DE4B944AA120B2162FDE6BEFA45EF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D90CBB38CA9DE4B944AA120B2162FDE6BEFA45EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iBeacon</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>266ED3CE9EB2A79E576C208EA974B8F98D906A8D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Pass</string>
+		</dict>
+	</array>
+</dict>
+</plist>
